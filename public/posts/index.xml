@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The proverbial fork.</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on The proverbial fork.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>August 30</title>
+      <link>/posts/001/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/001/</guid>
+      <description>I am simulatesously on a path to self-destruction, and bringing in the professionals to stop me. Would you like to know more?</description>
+      <content>&lt;p&gt;I am simulatesously on a path to self-destruction, and bringing in the professionals to stop me. Would you like to know more?&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
