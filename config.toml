@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://l0rdr4t.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 102
