@@ -78,4 +78,4 @@ paginate = 102
 
     [languages.en.params.logo]
       logoText = "The proverbial fork."
-      logoHomeLink = "https://github.com/l0rdr4t/l0rdr4t.github.io"
+      logoHomeLink = "/"
