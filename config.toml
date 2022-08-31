@@ -1,7 +1,7 @@
 baseurl = "https://l0rdr4t.github.io"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 102
+paginate = 10
 
 [params]
   # dir name of your main content (default is `content/posts`).
